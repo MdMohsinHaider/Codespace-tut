@@ -1,2 +1,2 @@
-# Codespace-tut in everything cloud
+# Cloud Codespace-tut
 GitHub Codespace-tut
